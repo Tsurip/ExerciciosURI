@@ -5,7 +5,7 @@ fun main(){
     val b: String = readLine().toString()
     val c: String = readLine().toString()
 
-    val media = (a.toDouble()*0.2)+(b.toDouble()*0.3)+(c.toDouble()*0.5)
+    val media = (a.toFloat()*0.2)+(b.toFloat()*0.3)+(c.toFloat()*0.5)
 
     println("MEDIA = $media")
 }
