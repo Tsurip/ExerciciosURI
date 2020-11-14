@@ -1,4 +1,4 @@
-package com.example.exercicios
+package com.example.exercicios.sequencial
 
 fun main(){
     val cod1: String = readLine().toString(); val num1: String = readLine().toString(); val Preço1: String = readLine().toString()

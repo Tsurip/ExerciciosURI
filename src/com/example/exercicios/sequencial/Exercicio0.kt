@@ -1,4 +1,4 @@
-package com.example.exercicios
+package com.example.exercicios.sequencial
 //Hello World!
 
 fun main(){

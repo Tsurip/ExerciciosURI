@@ -1,4 +1,4 @@
-package com.example.exercicios
+package com.example.exercicios.sequencial
  //Soma Simples
 
 fun main(){

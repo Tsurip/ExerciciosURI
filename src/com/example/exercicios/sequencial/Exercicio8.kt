@@ -1,4 +1,4 @@
-package com.example.exercicios
+package com.example.exercicios.sequencial
 
 fun main(){
     val numFunc: String = readLine().toString()

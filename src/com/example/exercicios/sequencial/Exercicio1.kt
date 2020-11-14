@@ -1,4 +1,4 @@
-package com.example.exercicios
+package com.example.exercicios.sequencial
 //Extremamente básico (soma)
 
 fun main(){
