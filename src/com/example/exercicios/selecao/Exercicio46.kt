@@ -6,5 +6,5 @@ fun main(){
 
     if (inicio<fim) print("O jogo durou ${fim-inicio} horas")
     if (inicio==fim) print("O jogo durou 24 horas")
-    if (inicio>fim) print("O jogo durou ${24-fim+inicio} horas")
+    if (inicio>fim) print("O jogo durou ${24+fim-inicio} horas")
 }
