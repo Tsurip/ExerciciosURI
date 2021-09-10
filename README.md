@@ -1,3 +1,3 @@
-# Exercicios do URI
+# Exercicios sobre Koin
 
-Este repositório armazena os exercícios desenvolvidos do URI Online Judge em Kotlin, além de outros exercícios envolvendo a linguagem Kotlin.
+Este repositório armazena os exercícios desenvolvidos de diversos lugares em Kotlin.
